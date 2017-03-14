@@ -1,5 +1,5 @@
-img, table {width: 165px;}
+img, table {width: 175px;}
 fieldset {width: 140px}
 label {display: block; float: left;}
-label, input {width: 68px; margin: 3px 0;}
+label, input {width: 150px; margin: 3px 0;}
 th, td {border: 1px solid #ccc; font-size: 0.8em; }
